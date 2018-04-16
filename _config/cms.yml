@@ -3,5 +3,5 @@ Name: seo cms config
 ---
 SilverStripe\Admin\LeftAndMain:
   extra_requirements_css:
-    - resources/silverstripe-seo/assets/css/seo.css
+    - resources/vendor/cyber-duck/silverstripe-seo/assets/css/seo.css
 
