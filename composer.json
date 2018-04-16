@@ -6,7 +6,7 @@
     "keywords": [
         "silverstripe SEO",
         "silverstripe",
-        "silverstripe 4",
+        "silverstripe 4.1",
         "search engine optimisation",
         "seo",
         "meta",
@@ -27,8 +27,8 @@
     },
     "require": {
         "php": ">=5.6",
-        "silverstripe/cms": "^4.0",
-        "silverstripe/framework": "^4.0"
+        "silverstripe/cms": "^4.1",
+        "silverstripe/framework": "^4.1"
     },
     "autoload": {
         "psr-4": {
